@@ -2,6 +2,6 @@
 main{
 	int a = 2;
 	int b = 3;
-	cout << a << endl;
+	cout << a << b << endl;
 	return 0;
 }
